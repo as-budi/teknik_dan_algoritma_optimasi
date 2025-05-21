@@ -165,15 +165,6 @@ $$
 
 ---
 
-Berikut adalah **contoh lengkap penggunaan Ant Colony Optimization (ACO) untuk menyelesaikan masalah Traveling Salesman Problem (TSP)** menggunakan **matriks jarak simetris**, lengkap dengan:
-
-* Konstruksi solusi oleh semut
-* Perhitungan probabilitas
-* Evaporasi dan update feromon
-* Tabel feromon sebelum dan sesudah iterasi
-
----
-
 #### 📌 **Studi Kasus: TSP 4 Kota**
 
 - Diberikan 4 kota: A, B, C, D
